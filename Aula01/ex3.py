@@ -1,0 +1,6 @@
+print('R')
+print('E')
+print('N')
+print('A')
+print('T')
+print('O')
